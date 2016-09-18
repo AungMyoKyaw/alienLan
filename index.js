@@ -2,7 +2,7 @@ var myanmar = document.getElementById('myanmar');
 var alian = document.getElementById('alienlan');
 
 myanmar.placeholder = "မြန်မာစာရိုက်ပါ။";
-alian.placeholder = "ဂြိုလ်သားစာရိုက်ပါ။"
+alian.placeholder = "ဝှက်စာရိုက်ပါ။"
 
 myanmar.onkeyup = function(){
 	// alian.text = 'aung';
